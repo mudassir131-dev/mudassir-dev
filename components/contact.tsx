@@ -43,24 +43,24 @@ export function Contact() {
 
             <div className="mt-12 space-y-5 border-t border-border/60 pt-10">
               <a
-                href="mailto:muhammadmud4ssir@gmail.com"
+                href="mailto:hello@pixelforgee.studio"
                 className="group flex items-center justify-between gap-6 border-b border-border/60 py-5 transition-colors duration-300 hover:border-gold"
               >
                 <span className="flex items-center gap-4">
                   <Mail className="h-4 w-4 text-gold" strokeWidth={1.5} />
-                  <span className="text-base text-foreground md:text-lg">muhammadmud4ssir@gmail.com</span>
+                  <span className="text-base text-foreground md:text-lg">hello@pixelforgee.studio</span>
                 </span>
                 <ArrowUpRight className="h-4 w-4 text-muted-foreground transition-all duration-500 group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-gold" />
               </a>
               <a
-                href="https://instagram.com/pixelforgee.hq"
+                href="https://instagram.com/pixelforgee"
                 target="_blank"
                 rel="noreferrer"
                 className="group flex items-center justify-between gap-6 border-b border-border/60 py-5 transition-colors duration-300 hover:border-gold"
               >
                 <span className="flex items-center gap-4">
                   <Instagram className="h-4 w-4 text-gold" strokeWidth={1.5} />
-                  <span className="text-base text-foreground md:text-lg">@pixelforgee.hq</span>
+                  <span className="text-base text-foreground md:text-lg">@pixelforgee</span>
                 </span>
                 <ArrowUpRight className="h-4 w-4 text-muted-foreground transition-all duration-500 group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-gold" />
               </a>
