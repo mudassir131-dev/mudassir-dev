@@ -1,126 +1,158 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=MUdassir;Software+Developer;Cybersecurity+Enthusiast;Building+Premium+Digital+Experiences" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MUDASSIR&fontSize=70&fontAlign=50&fontAlignY=38&color=0:000000,50:1a1a1a,100:ffffff&fontColor=ffffff&desc=Software%20Developer%20•%20Cybersecurity%20Enthusiast%20•%20Creative%20Engineer&descAlignY=60"/>
+
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ENGINEERING-STUDENT-111111?style=for-the-badge&labelColor=000000&color=ffffff" />
-  <img src="https://img.shields.io/badge/SOFTWARE-DEVELOPER-111111?style=for-the-badge&labelColor=000000&color=ffffff" />
-  <img src="https://img.shields.io/badge/CYBERSECURITY-111111?style=for-the-badge&labelColor=000000&color=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+Rare+Digital+Experiences;Engineering+Modern+Web+Systems;Cybersecurity+%2B+Creative+Development;Turning+Ideas+Into+Premium+Products" />
 </p>
 
 ---
 
 <div align="center">
 
-# ⚡ Crafting Digital Products With Precision
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:ffffff&height=120&section=header"/>
+<img src="https://img.shields.io/badge/ENGINEERING-STUDENT-000000?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-FFFFFF?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 
 </div>
 
-## 🧠 About Me
+---
+
+# ⚡ SYSTEM PROFILE
 
 ```yaml
 Name: Mudassir
-Role: Engineering Student & Developer
 
-Focus:
-  - Full Stack Development
-  - Cybersecurity
+Role:
+  - Software Developer
+  - Engineering Student
+  - Creative Technologist
+
+Expertise:
+  - Premium UI/UX Systems
+  - Full Stack Web Apps
   - Android Development
-  - Creative UI/UX Systems
+  - Cybersecurity
 
-Currently Building:
-  - Premium Web Experiences
-  - Scalable Digital Products
-  - Startup-Level Projects
+Currently Working On:
+  - Startup-Level Platforms
+  - AI Powered Systems
+  - Premium Digital Brands
+  - Creative Developer Tools
 
-Learning:
-  - Advanced Security
-  - AI Integrations
-  - System Design
+Mindset:
+  - Precision
+  - Innovation
+  - Minimalism
+  - Scalability
 
-Motto:
-  - "Build rare. Build clean. Build unforgettable."
+Mission:
+  - "Create products that feel futuristic, cinematic, and unforgettable."
 ```
 
 ---
 
-## ⚒️ Tech Arsenal
+# ⚒️ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,cpp,flutter,react,nextjs,nodejs,html,css,tailwind,mongodb,firebase,git,github,vscode,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,python,flutter,kotlin,cpp,tailwind,mongodb,firebase,git,github,vscode,androidstudio,figma&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Specializations
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-ffffff?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/CYBERSECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ANDROID%20APPS-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/UI%20ENGINEERING-111111?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AUTOMATION-5A29E4?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-</p>
-
----
-
-## 📈 GitHub Analytics
+# 🧠 CORE DOMAINS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassir131-dev&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir131-dev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassir131-dev&theme=black-ice&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+| DOMAIN | SPECIALIZATION |
+|:---:|:---:|
+| 🌐 | Full Stack Development |
+| 📱 | Android & Flutter Apps |
+| 🔐 | Cybersecurity |
+| 🎨 | Premium UI Engineering |
+| 🤖 | AI & Automation |
+| ⚡ | Startup Product Systems |
 
 </div>
 
 ---
 
-## 🏆 Achievements & Goals
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mudassir131-dev&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir131-dev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mudassir131-dev&theme=black-ice&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
 
 ```diff
-+ Participating in Hackathons
-+ Building Premium Digital Products
-+ Exploring AI + Cybersecurity
-+ Creating High-End UI Systems
-+ Scaling Towards Startup-Level Projects
++ Building premium startup-level projects
++ Participating in hackathons & innovation challenges
++ Exploring AI, automation & cybersecurity
++ Designing futuristic digital experiences
++ Constantly learning advanced technologies
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 CURRENT FOCUS
 
-<p align="center">
+<div align="center">
 
-<a href="https://instagram.com/pixelforgee.hq">
-  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+```mermaid
+graph LR
 
-<a href="mailto:muhammadmud4ssir@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+A[Premium UI Systems] --> B[Full Stack Apps]
+B --> C[Cybersecurity]
+C --> D[AI Integrations]
+D --> E[Scalable Startup Products]
+```
+
+</div>
+
+---
+
+# 🌌 DIGITAL PRESENCE
+
+<div align="center">
 
 <a href="https://github.com/mudassir131-dev">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://instagram.com/pixelforgee.hq">
+  <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:muhammadmud4ssir@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mudassir131-dev&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
 
 ---
 
@@ -142,6 +174,8 @@ Motto:
 
 <div align="center">
 
-### ⭐ Building premium experiences with code, creativity, and security.
+# ⭐ BUILDING THE FUTURE WITH CODE.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:ffffff,100:000000"/>
 
 </div>
