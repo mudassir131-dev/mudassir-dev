@@ -1,86 +1,147 @@
-<h1 align="center">Hi 👋, I'm Mudassir</h1>
-<h3 align="center">Engineering Student | Software Developer | Cybersecurity Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=MUdassir;Software+Developer;Cybersecurity+Enthusiast;Building+Premium+Digital+Experiences" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=500&lines=Software+Developer;Cybersecurity+Enthusiast;Flutter+%26+Android+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/ENGINEERING-STUDENT-111111?style=for-the-badge&labelColor=000000&color=ffffff" />
+  <img src="https://img.shields.io/badge/SOFTWARE-DEVELOPER-111111?style=for-the-badge&labelColor=000000&color=ffffff" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-111111?style=for-the-badge&labelColor=000000&color=ffffff" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 🎓 Engineering student passionate about **software development & cybersecurity**
-- 🔭 Currently working on **innovative digital products**
-- 🌱 Always learning **new technologies and frameworks**
-- 💡 Love participating in **Hackathons**
-- 🎯 Goal: Build scalable solutions for **real-world problems**
-- ⚡ Fun fact: I debug code better at **2AM** 😄
+# ⚡ Crafting Digital Products With Precision
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:ffffff&height=120&section=header"/>
 
-## 🛠️ Languages & Technologies
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+## 🧠 About Me
 
----
+```yaml
+Name: Mudassir
+Role: Engineering Student & Developer
 
-## 🔧 Tools I Use
+Focus:
+  - Full Stack Development
+  - Cybersecurity
+  - Android Development
+  - Creative UI/UX Systems
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Currently Building:
+  - Premium Web Experiences
+  - Scalable Digital Products
+  - Startup-Level Projects
 
----
+Learning:
+  - Advanced Security
+  - AI Integrations
+  - System Design
 
-## 🔐 Interests
-
-- 🛡️ Cybersecurity & Ethical Hacking
-- 📱 Android & Cross-platform App Development
-- 🌐 Web Development
-- 🤖 Artificial Intelligence & Automation
-- 🏆 Competitive Programming
+Motto:
+  - "Build rare. Build clean. Build unforgettable."
+```
 
 ---
 
-## 📊 GitHub Stats
+## ⚒️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,cpp,flutter,react,nextjs,nodejs,html,css,tailwind,mongodb,firebase,git,github,vscode,androidstudio&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Specializations
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudassir131-dev&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir131-dev&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassir131-dev&theme=tokyonight" width="60%" />
-</p>
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-ffffff?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
 
----
+<img src="https://img.shields.io/badge/CYBERSECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 
-## 🤝 Connect With Me
+<img src="https://img.shields.io/badge/ANDROID%20APPS-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:muhammadmud4ssir@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/pixelforgee.hq" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<img src="https://img.shields.io/badge/UI%20ENGINEERING-111111?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AUTOMATION-5A29E4?style=for-the-badge&logo=n8n&logoColor=white"/>
+
 </p>
 
 ---
 
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassir131-dev&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir131-dev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassir131-dev&theme=black-ice&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Goals
+
+```diff
++ Participating in Hackathons
++ Building Premium Digital Products
++ Exploring AI + Cybersecurity
++ Creating High-End UI Systems
++ Scaling Towards Startup-Level Projects
+```
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mudassir131-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+<a href="https://instagram.com/pixelforgee.hq">
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:muhammadmud4ssir@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mudassir131-dev">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
-<p align="center">⭐ <b>star my repo if you found this helpful!</b> ⭐</p>
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mudassir131-dev&label=PROFILE+VIEWS&color=ffffff&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Building premium experiences with code, creativity, and security.
+
+</div>
