@@ -1,233 +1,86 @@
-````markdown
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mudassir</h1>
+<h3 align="center">Engineering Student | Software Developer | Cybersecurity Enthusiast</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,25:111111,50:00F0FF,75:7F5AF0,100:FF0080&text=MUDASSIR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Cybersecurity%20Enthusiast%20|%20PIXELFORGEE%20STUDIOS&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Engineering+Student;Full+Stack+Developer;Cybersecurity+Learner;Flutter+%26+Android+Developer;AI+Automation+Explorer;Founder+of+PIXELFORGEE+STUDIOS"/>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/mudassir131-dev?style=for-the-badge&color=00F0FF&labelColor=111111"/>
-
-<img src="https://img.shields.io/github/stars/mudassir131-dev?style=for-the-badge&color=7F5AF0&labelColor=111111"/>
-
-<img src="https://komarev.com/ghpvc/?username=mudassir131-dev&style=for-the-badge&color=00F0FF"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=500&lines=Software+Developer;Cybersecurity+Enthusiast;Flutter+%26+Android+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
 
 ---
 
-# ⚡ SYSTEM STATUS
+## 👨‍💻 About Me
 
-```yaml
-Name: Mudassir
-Role: Software Developer
-Education: Engineering Student
-Focus:
-  - Cybersecurity
-  - AI Automation
-  - Full Stack Development
-  - Android Development
-
-Studio: PIXELFORGEE STUDIOS
-
-Status: ONLINE
-````
+- 🎓 Engineering student passionate about **software development & cybersecurity**
+- 🔭 Currently working on **innovative digital products**
+- 🌱 Always learning **new technologies and frameworks**
+- 💡 Love participating in **Hackathons**
+- 🎯 Goal: Build scalable solutions for **real-world problems**
+- ⚡ Fun fact: I debug code better at **2AM** 😄
 
 ---
 
-# 🧠 ABOUT ME
+## 🛠️ Languages & Technologies
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```javascript
-class Mudassir {
-  constructor() {
-    this.role = "Developer";
-    this.learning = [
-      "Cybersecurity",
-      "AI Automation",
-      "Advanced Web Development",
-      "Android Development"
-    ];
-
-    this.goal = "Build futuristic digital products";
-  }
-}
-
-const developer = new Mudassir();
-```
-
-* 🎓 Engineering student passionate about technology
-* 🛡️ Learning cybersecurity & ethical hacking
-* 🚀 Building scalable digital products
-* 🎨 Founder of PIXELFORGEE STUDIOS
-* ⚡ Obsessed with premium UI/UX
-* 🌌 Love futuristic tech & creative coding
-
-<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
-# 🛠️ TECH STACK
+## 🔧 Tools I Use
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,kotlin,flutter,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,html,css,linux,git,github,vscode,androidstudio,figma&theme=dark"/>
-
-</div>
-
----
-
-# ⚔️ DEVELOPMENT ARSENAL
-
-<div align="center">
-
-| Category     | Technologies                        |
-| ------------ | ----------------------------------- |
-| 🌐 Frontend  | React, Next.js, HTML, CSS, Tailwind |
-| ⚙️ Backend   | Node.js, Express, Firebase          |
-| 📱 Mobile    | Flutter, Kotlin, Android            |
-| 🧠 AI        | Python, APIs, Automation            |
-| 🛡️ Security | Linux, Networking, OSINT            |
-| 🗄️ Database | MongoDB, MySQL, Firebase            |
-
-</div>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 🚀 CURRENT MISSIONS
+## 🔐 Interests
 
-<div align="center">
-
-| Project                | Status          |
-| ---------------------- | --------------- |
-| Building Scalable Apps | 🚀 Active       |
-| Cybersecurity Learning | 🛡️ In Progress |
-| AI Automation Systems  | 🤖 Developing   |
-| PIXELFORGEE STUDIOS    | ⚡ Growing       |
-| Hackathon Projects     | 🏆 Ongoing      |
-
-</div>
+- 🛡️ Cybersecurity & Ethical Hacking
+- 📱 Android & Cross-platform App Development
+- 🌐 Web Development
+- 🤖 Artificial Intelligence & Automation
+- 🏆 Competitive Programming
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mudassir131-dev&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir131-dev&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mudassir131-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir131-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF"/>
-
-<br><br>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mudassir131-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=7F5AF0&fire=00F0FF&currStreakLabel=FFFFFF"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassir131-dev&theme=tokyonight" width="60%" />
+</p>
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+## 🤝 Connect With Me
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mudassir131-dev&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mudassir131-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:muhammadmud4ssir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/pixelforgee.hq" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mudassir131-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🔥 FEATURED INTERESTS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CYBERSECURITY-111111?style=for-the-badge&logo=hackthebox&logoColor=00FFAA"/>
-
-<img src="https://img.shields.io/badge/FLUTTER-111111?style=for-the-badge&logo=flutter&logoColor=47C5FB"/>
-
-<img src="https://img.shields.io/badge/REACT-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/NODE.JS-111111?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
-
-<img src="https://img.shields.io/badge/AI-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-
-</div>
-
----
-
-# 🌌 CYBER TERMINAL
-
-```bash
-> booting developer profile...
-
-[████████████████████████████] 100%
-
-✔ Frontend Development
-✔ Backend Systems
-✔ Android Development
-✔ Cybersecurity
-✔ AI Automation
-
-STATUS: READY
-```
-
----
-
-# 🤝 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://instagram.com/pixelforgee.hq">
-<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<a href="mailto:muhammadmud4ssir@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://github.com/mudassir131-dev">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🧩 DEVELOPER PHILOSOPHY
-
-<div align="center">
-
-> "Create systems that people remember."
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,50:00F0FF,100:7F5AF0"/>
-
-</div>
-```
-
+<p align="center">⭐ <b>star my repo if you found this helpful!</b> ⭐</p>
