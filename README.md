@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MUDASSIR&fontSize=70&fontAlign=50&fontAlignY=38&color=0:000000,50:1a1a1a,100:ffffff&fontColor=ffffff&desc=Software%20Developer%20•%20Cybersecurity%20Enthusiast%20•%20Creative%20Engineer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MUHAMMAD%20MUDASSIR&fontSize=70&fontAlign=50&fontAlignY=38&color=0:000000,50:1a1a1a,100:ffffff&fontColor=ffffff&desc=Jr%20Software%20Developer%20•%20Web%20Developer%20•%20Creative%20Engineer&descAlignY=60"/>
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+Rare+Digital+Experiences;Engineering+Modern+Web+Systems;Cybersecurity+%2B+Creative+Development;Turning+Ideas+Into+Premium+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+Rare+Digital+Experiences;Engineering+Modern+Web+Systems;Web+%2B+Creative+Development;Turning+Ideas+Into+Premium+Products" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/ENGINEERING-STUDENT-000000?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/CYBERSECURITY-FFFFFF?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/WEB-DEVELOPER-FFFFFF?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 
 </div>
 
@@ -23,24 +23,23 @@
 # ⚡ SYSTEM PROFILE
 
 ```yaml
-Name: Mudassir
+Name: Muhammad Mudassir
 
 Role:
-  - Software Developer
   - Engineering Student
+  - telegram Bot Developer
   - Creative Technologist
+  - Web Developer
+  - Jr App Developer
 
 Expertise:
   - Premium UI/UX Systems
   - Full Stack Web Apps
   - Android Development
-  - Cybersecurity
 
 Currently Working On:
-  - Startup-Level Platforms
-  - AI Powered Systems
-  - Premium Digital Brands
-  - Creative Developer Tools
+  - Website Development
+  - Telegram Bots
 
 Mindset:
   - Precision
@@ -49,7 +48,7 @@ Mindset:
   - Scalability
 
 Mission:
-  - "Create products that feel futuristic, cinematic, and unforgettable."
+  - Create products that feel futuristic, cinematic, and unforgettable.
 ```
 
 ---
@@ -72,7 +71,6 @@ Mission:
 |:---:|:---:|
 | 🌐 | Full Stack Development |
 | 📱 | Android & Flutter Apps |
-| 🔐 | Cybersecurity |
 | 🎨 | Premium UI Engineering |
 | 🤖 | AI & Automation |
 | ⚡ | Startup Product Systems |
@@ -103,8 +101,7 @@ Mission:
 
 ```diff
 + Building premium startup-level projects
-+ Participating in hackathons & innovation challenges
-+ Exploring AI, automation & cybersecurity
++ Exploring AI, automation
 + Designing futuristic digital experiences
 + Constantly learning advanced technologies
 ```
@@ -118,8 +115,8 @@ Mission:
 ```mermaid
 graph LR
 
-A[Premium UI Systems] --> B[Full Stack Apps]
-B --> C[Cybersecurity]
+A[Premium UI Systems] --> B[Frontend Websites]
+B --> C[telegram bots]
 C --> D[AI Integrations]
 D --> E[Scalable Startup Products]
 ```
